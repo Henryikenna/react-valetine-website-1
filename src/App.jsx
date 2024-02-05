@@ -33,7 +33,7 @@ function App() {
   }
 
   return (
-    <div className=" bg-white bg-opacity-50 bg-cover w-screen h-screen  flex flex-col justify-center items-center">
+    <div className=" bg-white bg-opacity-5 bg-cover w-screen h-screen  flex flex-col justify-center items-center">
       {yesPressed ? (
         <>
           <img className="w-2/4 md:w-1/4 -mt-16" src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" alt="bears kissing" />
